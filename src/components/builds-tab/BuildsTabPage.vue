@@ -110,7 +110,7 @@ export default {
 
 .builds-tab-page .list-placeholder a {
   text-decoration: none;
-  color: #167c80;
+  color: var(--brand-primary);
 }
 
 .builds-tab-page .header {
@@ -138,7 +138,7 @@ export default {
 }
 
 .builds-tab-page .header a {
-  color: #167c80;
+  color: var(--brand-primary);
   text-decoration: none;
   font-weight: 500;
 }

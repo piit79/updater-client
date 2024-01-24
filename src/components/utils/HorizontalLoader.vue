@@ -31,7 +31,7 @@ export default {
   top: 0;
   left: 0;
 
-  background: #167c80;
+  background: var(--brand-primary);
 
   position: absolute;
 }

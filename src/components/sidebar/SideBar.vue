@@ -40,7 +40,7 @@ export default {
 
   flex-shrink: 0;
 
-  background: #167c80;
+  background: var(--brand-primary);
 
   height: 100px;
 }
